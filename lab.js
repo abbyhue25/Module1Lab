@@ -10,7 +10,7 @@ operand1.innerHTML += num1;
 operand2.innerHTML += num2;
 
 var sum = num1 + num2;
-var difference = num1 + num2;
+var difference = num1 - num2;
 var product = num1 * num2;
 var quotient = num1 / num2;
 var modResult = num1 % num2;
